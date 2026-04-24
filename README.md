@@ -1,3 +1,5 @@
+## CIN3怀疑早期浸润但HE形态不确定的病例诊断思考
+
 对于CIN3怀疑早期浸润但HE形态不确定的病例，首选CK/Collagen IV（或CK/Laminin）双重免疫染色来评估基底膜完整性，同时结合多层面连续切片。需要注意的是，CIN3本身即可出现基底膜不连续，因此基底膜缺损并不等同于浸润，仍需结合间质反应（促纤维增生反应）、浸润灶的形态特征等综合判断。对于形态学上类似CIN3累及腺体但深度异常的病例，应警惕CIN3样SCC的可能，此时E-cadherin和Cyclin D1染色可提供额外信息。
 
 以下从形态学线索、间质反应特征和辅助免疫组化标记物三个层面进行系统解读。
@@ -94,6 +96,90 @@ al-Nafussi和Hughes的经典研究回顾了120例伴微浸润癌的CIN3，鉴定
 
 **综合判断原则**：
 	任何单一标记物都不能独立确定浸润，需将基底膜完整性、间质反应模式、上皮细胞形态学特征三者结合，并始终以HE形态学为基础。
+## 七、基底膜染色相关图片
+
+1. Rush等，2005年，Archives of Pathology & Laboratory Medicine1(https://pubmed.ncbi.nlm.nih.gov/15913422)
+
+包含图片：CK-Collagen IV和CK-Laminin双重免疫染色的对比图
+展示内容：
+CIN3中连续完整的基底膜
+Pasted image 20260424104715.png
+A，宫颈上皮内瘤变 3 级（CIN 3）可疑浸润（苏木精-伊红染色）。B，CIN 3 可疑浸润（角蛋白和 IV 型胶原染色）
+微浸润癌中基底膜不连续或缺失
+"CIN3疑似浸润"病例中通过双染明确诊断的微浸润灶
+
+2. Stewart和McNicol，1992年，Journal of Clinical Pathology2(https://pubmed.ncbi.nlm.nih.gov/1740529)
+
+包含图片：IV型胶原免疫染色系列图
+展示内容：
+Pasted image 20260424105102.png
+CIN 111 区域下方基底膜连续性中断（箭头）。尽管下方的基质中有炎症细胞浸润，基底膜中未见与炎症细胞密切关联
+CIN III中基底膜缺损的表现
+Pasted image 20260424105407.png
+宫颈鳞状细胞癌中看到的断裂基底膜染色。注意肿瘤血管周围的线性染色
+浸润性癌中肿瘤巢周围仍保留部分IV型胶原的情况
+HE染色与IV型胶原染色的对照
+教学价值：★★★★★ 直接展示了"基底膜缺损≠浸润"这一核心盲区
+3. Richards和Furness，1990年，Histopathology3(https://pubmed.ncbi.nlm.nih.gov/2307415)
+
+包含图片：Laminin免疫染色显示基底膜从连续→小断裂→碎片化的演变过程
+展示内容：
+正常宫颈上皮的连续基底膜
+Pasted image 20260424105606.png
+与基质炎症浸润相关的 CIN III。IV 型胶原免疫染色有局灶性缺损（箭头所示），但无浸润癌的形态学特征。（A）苏木精和伊红染色；（B）免疫过氧化物酶染色（未使用对染剂）
+CIN中逐渐增多的小断裂（small breaks）
+Pasted image 20260424105906.png
+浸润癌中的碎片化模式（fragmented pattern）
+
+* 形态学预测特征相关图片
+
+4. al-Nafussi和Hughes，1994年，Journal of Clinical Pathology4(https://pubmed.ncbi.nlm.nih.gov/7962647)
+
+包含图片：CIN3伴微浸润的形态学特征
+展示内容：
+Pasted image 20260424110600.png
+微侵袭鳞状细胞癌（MICA）早期舌状病变起源于受 CIN3 累及和扩展的隐窝基底。注意 CIN3 病变内的中央坏死
+膨胀性CIN3累及深部隐窝
+腔内坏死
+Pasted image 20260424110428.png
+涉及并扩展宫颈腺管的 CIN3（A）。注意病灶内鳞状成熟和中央角化坏死（B）
+反常成熟（paradoxical maturation）
+隐窝周围同心性纤维增生
+Pasted image 20260424110213.png
+垂直于基底膜排列的深染梭形细胞流
+
+5、CIN3样鳞癌（诊断陷阱）相关图片
+
+Stewart和Crook，2017年，Histopathology5(https://pubmed.ncbi.nlm.nih.gov/27681166)
+
+包含图片：CIN3样SCC的形态学和免疫组化对比
+展示内容：
+Pasted image 20260424111106.png
+Pasted image 20260424111132.png
+鳞状细胞癌（SCC）显示宫颈上皮内新生物（CIN）3 样（右侧）和传统浸润（左侧）模式。B，高倍放大下外观类似于与 CIN 3 相关的浅层浸润，但根据病灶分布，该视野内所有新生物细胞均被视为浸润性
+CIN3样成分与传统浸润性SCC成分的HE形态对比
+Pasted image 20260424111216.png
+A，鳞状细胞癌（SCC）伴宫颈上皮内瘤变 3 级（CIN3）样（右）和浸润性（左）生长模式。B，相应的免疫组化切片显示细胞周期蛋白 D1 表达仅限于浸润成分外围（基质界面）的细胞
+Pasted image 20260424111253.png
+A，中心的小浸润性巢状鳞状细胞癌（SCC）邻近宫颈上皮内瘤变 3 样鳞状细胞癌（CIN 3）（上方和右侧）。B，细胞周期蛋白 D1 表达主要局限于浸润成分。
+Pasted image 20260424111339.png
+A，在类似 CIN 3 的鳞状细胞癌中，E-钙粘蛋白表达在肿瘤巢的中心更强且更均匀（箭头所示）。B，类似 CIN 3 的鳞状细胞癌（右侧）具有浸润成分（左侧）。C，类似 CIN 3 的肿瘤成分中大多数细胞表达 E-钙粘蛋白，但在浸润细胞中染色极少。
+Pasted image 20260424111415.png
+A、B，类似宫颈上皮内瘤变 3 级（CIN3）的鳞状细胞癌（SCC）（上方）伴浸润性纺锤细胞/肉瘤样癌成分（下方）。浸润性细胞为细胞周期蛋白 D1 阳性（C）和 E-钙粘蛋白阴性（D），而 CIN3 样成分则显示相反的染色模式
+E-cadherin和Cyclin D1在两种成分中的表达差异
+推挤性边界（pushing borders）的特征
+
+
+6. Barth等，2002年，Virchows Archiv
+
+包含图片：CD34和α-SMA在正常间质、CIN III旁间质、浸润癌间质中的表达对比
+展示内容：
+Pasted image 20260424111704.png
+The normal stroma of the cervix uteri harbors a dense network of CD34+ fibrocytes (a), whereas α-smooth muscle actin (α-SMA) positive myofibroblasts are absent (b). The walls of muscularized vessels stain positive for α-SMA (b). The stroma adjacent to cervical intraepithelial neoplasia III (CIN III) includes huge numbers of CD34+ fibrocytes (c), early stromal invasion by atypical cells is characterized by a loss of CD34+ fibrocytes (c, inset). In CIN III, the subepithelial stroma also expresses α-SMA (d). The stroma of invasive squamous cell carcinomas is free of CD34+ fibrocytes (e) and contains huge numbers of haphazardly arranged α-SMA-positive myofibroblasts (f)
+正常间质中密集的CD34⁺纤维细胞网络
+CIN III旁间质中CD34⁺细胞保留但开始出现α-SMA⁺肌纤维母细胞
+浸润癌间质中CD34⁺细胞消失、α-SMA⁺细胞大量杂乱排列
+PMID: 12461613
 
 ### References
 Basement Membrane Continuity in Benign, Premalignant and Malignant Epithelial Conditions of the Uterine Cervix. Richards CJ, Furness PN. Histopathology. 1990;16(1):47-52. doi:10.1111/j.1365-2559.1990.tb01059.x.
